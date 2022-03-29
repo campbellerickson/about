@@ -1,0 +1,22 @@
+body, html {
+  margin: 0;
+  padding: 0;
+    background:transparent;
+}
+
+body canvas {
+  display: block;
+  background: #ffffff;
+}
+
+#header { 
+font-size: max(35px, 3vw); 
+padding-left: 10vw; 
+padding-top: 10vw; 
+}
+
+#links {
+padding-left: 10vw; 
+padding-top: 2vw; 
+
+}
