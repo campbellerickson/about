@@ -9,8 +9,13 @@ body canvas {
   background: #ffffff;
 }
 
+a {
+text-decoration: none;
+color: black;
+}
+
 #header { 
-font-size: max(35px, 3vw); 
+font-size: max(40px, 4vw); 
 padding-left: 10vw; 
 padding-top: 10vw; 
 }
@@ -20,9 +25,9 @@ padding-left: 10vw;
 padding-top: 2vw; 
 }
 
+
 #about {
 padding: 5vw;
 padding-left: 10vw
-
-
 }
+
